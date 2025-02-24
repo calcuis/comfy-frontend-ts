@@ -10,3 +10,4 @@ build web (dist)
 ```
 npm run build
 ```
+rename the output dist to web
